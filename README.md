@@ -11,3 +11,4 @@ The following APIs are available in Node.js, Express.js and TypeScript, using My
 
 * :white_check_mark: [Basic TypeScript API REST](https://github.com/norbeydanilo/api_typescript_mysql.git): using pure sql in the controllers. Registering orders (CRU operations).
 * :white_check_mark: [Basic TypeScript/Sequelize API REST](https://github.com/norbeydanilo/api_typescript_sequelize.git): using Sequelize ORM. Registering single fields (CRUD operations).
+* :white_check_mark: [Basic TypeScript/Sequelize API REST for CITAS](https://github.com/norbeydanilo/api-citas-sequelize-ts.git): using Sequelize ORM. CRUD operations for "Pacientes", "Doctores" and "Citas".
